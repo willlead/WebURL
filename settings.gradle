@@ -1,0 +1,2 @@
+rootProject.name='WebURL'
+include ':app'
