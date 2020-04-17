@@ -123,7 +123,7 @@ public class MainActivity extends AppCompatActivity {
 
                 break;
             case MotionEvent.ACTION_UP:
-//                Toast.makeText(this, "업", Toast.LENGTH_SHORT).show();
+                Toast.makeText(this, "업", Toast.LENGTH_SHORT).show();/**/
 //                linear.setVisibility(View.VISIBLE);
 //                imm.hideSoftInputFromWindow(edtURL.getWindowToken(), 0);
                 break;
